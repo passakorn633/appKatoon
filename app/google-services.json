@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1027303276595",
+    "firebase_url": "https://minikatoon-625ee-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "minikatoon-625ee",
+    "storage_bucket": "minikatoon-625ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027303276595:android:068e8cede85fcf4b5ca346",
+        "android_client_info": {
+          "package_name": "com.example.lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027303276595-bdvm14c61nphhpqtci8agbrjsv8bbd0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPFnsGjpqpqEkBCn9LS_JAdNSgc-wuiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027303276595-bdvm14c61nphhpqtci8agbrjsv8bbd0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027303276595:android:49d206813e3ba8fe5ca346",
+        "android_client_info": {
+          "package_name": "com.example.lab121"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027303276595-bdvm14c61nphhpqtci8agbrjsv8bbd0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPFnsGjpqpqEkBCn9LS_JAdNSgc-wuiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027303276595-bdvm14c61nphhpqtci8agbrjsv8bbd0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
